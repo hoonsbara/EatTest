@@ -1,0 +1,8 @@
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console\bin\Debug\JustEat.Console.exe.config
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console\bin\Debug\JustEat.Console.exe
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console\bin\Debug\JustEat.Console.pdb
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console\obj\Debug\JustEat.Console.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console\obj\Debug\JustEat.Console.exe
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console\obj\Debug\JustEat.Console.pdb
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console\bin\Debug\Newtonsoft.Json.xml

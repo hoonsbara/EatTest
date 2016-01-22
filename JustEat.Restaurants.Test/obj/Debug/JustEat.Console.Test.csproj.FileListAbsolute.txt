@@ -1,0 +1,15 @@
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\bin\Debug\JustEat.Console.Test.dll
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\bin\Debug\JustEat.Console.Test.pdb
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\bin\Debug\JustEat.Console.exe
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\bin\Debug\Moq.dll
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\bin\Debug\nunit.core.dll
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\bin\Debug\nunit.framework.dll
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\bin\Debug\nunit.util.dll
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\bin\Debug\JustEat.Console.pdb
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\bin\Debug\Moq.xml
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\bin\Debug\nunit.framework.xml
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\obj\Debug\JustEat.Console.Test.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\obj\Debug\JustEat.Console.Test.dll
+C:\Users\Joel\Desktop\JustEatTest\JustEat.Console.Test\obj\Debug\JustEat.Console.Test.pdb
